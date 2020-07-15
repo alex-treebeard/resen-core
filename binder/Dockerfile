@@ -1,0 +1,1 @@
+FROM earthcubeingeo/resen-core
